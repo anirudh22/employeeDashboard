@@ -1,0 +1,11 @@
+[
+    { "id" : 1, "name" : "a", "designation" : "Manager", "mgrId" : 1},
+    { "id" : 2, "name" : "b", "designation" : "SE", "mgrId" : 1},
+    { "id" : 3, "name" : "c", "designation" : "SSE", "mgrId" : 1},
+    { "id" : 4, "name" : "d", "designation" : "SE", "mgrId" : 1},
+    { "id" : 5, "name" : "e", "designation" : "SE", "mgrId" : 1},
+    { "id" : 6, "name" : "f", "designation" : "SE", "mgrId" : 1},
+    { "id" : 7, "name" : "g", "designation" : "TA", "mgrId" : 1},
+    { "id" : 8, "name" : "h", "designation" : "SSE", "mgrId" : 1},
+    { "id" : 9, "name" : "i", "designation" : "TL", "mgrId" : 1}
+]
